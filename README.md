@@ -1,5 +1,7 @@
 # OGC Web Coverage Service 2.0.1 Processing Extension 2.0 Extension Test-Suite
 
+NOTE: This repository is no longer in use.
+
 The OGC Web Coverage Service 2.0.1 Processing Extension 2.0 Test-Suite provides the Executable Test Script (ETS) to test implementations against the following specification(s):
 
   * [OWS Common] [OGC Web Services Common Standard](https://portal.opengeospatial.org/files/?artifact_id=38867) (OGC 06-121r9)
